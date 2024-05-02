@@ -1,5 +1,7 @@
 Finnov8 Hackathon Submission
 
+Achieved 4th Place in Model Accuracy and 4th place overall.
+
 Contributors:
 Jacob McGreen
 Ryan Lee
